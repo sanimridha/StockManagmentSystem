@@ -1,0 +1,193 @@
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.exe.config
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.exe
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.pdb
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csprojAssemblyReference.cache
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Properties.Resources.resources
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csproj.GenerateResource.cache
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csproj.CoreCompileInputs.cache
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.exe
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.pdb
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.HomeForm.resources
+D:\Programming\Programming\COSMATIC SHOP\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.StartupForm.resources
+E:\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.exe.config
+E:\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.exe
+E:\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.pdb
+E:\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csprojAssemblyReference.cache
+E:\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.StartupForm.resources
+E:\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.HomeForm.resources
+E:\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Properties.Resources.resources
+E:\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csproj.GenerateResource.cache
+E:\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.exe
+E:\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.pdb
+E:\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.FrmUserType.resources
+E:\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.Employees.FrmEmployee.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.exe.config
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.exe
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.pdb
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.StartupForm.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.FrmUserType.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.HomeForm.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Properties.Resources.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csproj.GenerateResource.cache
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csproj.CoreCompileInputs.cache
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.exe
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.pdb
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.UserForms.FrmUserLogin.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.UserForms.FrmForgotPassword.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.UserForms.FrmPasswordChange.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.Employees.Employees.frmSearchEmployee.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.StockForms.FrmCategory.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.UserForms.frmAllUsers.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.UserForms.FrmCreateUser.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.Employees.FrmEmployee.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.ExpensesForm.FrmExpensesCategory.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.ExpensesForm.FrmExpenses.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.StockForms.frmStock.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.ExpensesForm.FrmAllExpenses.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.CustomerForm.FrmAllCustomers.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.CustomerForm.FrmCustomers.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.PurchaseForm.FrmNewPurchase.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SupplierForm.FrmAllSuppliers.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SupplierForm.FrmSupplier.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.Employees.FrmAllEmployees.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.StockForms.FrmAllStock.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SupplierForm.FrmSearchSuppliers.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\stdole.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmPurchaseReports.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csproj.CopyComplete
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.PurchaseForm.FrmPurchasePayment.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.PurchaseForm.FrmPurchasesPaymentPending.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmPurchasePaymentReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmPurchasePaymentHistoryReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SaleForms.FrmNewSale.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmAllPurchasePaymentHistory.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmSaleReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.CustomerForm.FrmSearchCustomers.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.PurchaseForm.FrmAllPurchases.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SaleForms.FrmSalePaymentPending.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SaleForms.FrmSalePayment.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmSalePaymentReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmSalePaymentHistoryReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csprojAssemblyReference.cache
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SaleForms.FrmAllSales.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmDailySalesReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmWeeklySaleReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmMonthlySalesReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmDailyPurchaseReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmCustomSaleReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmWeeklyPurchaseReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmMonthlyPurchaseReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmCustomPurchaseReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SupplierReport.FrmSupplierReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.CustomerReports.FrmAllCustomerList.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.ExpensesReport.FrmCustomExpensesReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.ExpensesReport.FrmDailyExpenses.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.ExpensesReport.FrmMonthlyExpensesReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.ExpensesReport.FrmWeeklyExpensesReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.StockReport.FrmStockReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.StockReport.FrmExpStockReport.resources
+C:\Users\shuvo\Desktop\CosmaticShop\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.StockReport.FrmLowStockReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.exe.config
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.exe
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CosmaticShop.pdb
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.Shared.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\ShockwaveFlashObjects.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\stdole.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.CustomerForm.FrmAllCustomers.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.CustomerForm.FrmCustomers.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.CustomerForm.FrmSearchCustomers.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.Employees.FrmAllEmployees.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.Employees.FrmEmployee.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.Employees.Employees.frmSearchEmployee.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.ExpensesForm.FrmAllExpenses.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.ExpensesForm.FrmExpenses.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.ExpensesForm.FrmExpensesCategory.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.PurchaseForm.FrmAllPurchases.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.PurchaseForm.FrmNewPurchase.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.PurchaseForm.FrmPurchasePayment.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.PurchaseForm.FrmPurchasesPaymentPending.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SaleForms.FrmAllSales.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SaleForms.FrmNewSale.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SaleForms.FrmSalePayment.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SaleForms.FrmSalePaymentPending.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.StartupForm.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.StockForms.FrmAllStock.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.StockForms.FrmCategory.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.StockForms.frmStock.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SupplierForm.FrmAllSuppliers.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SupplierForm.FrmSearchSuppliers.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.SupplierForm.FrmSupplier.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.UserForms.frmAllUsers.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.UserForms.FrmCreateUser.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.UserForms.FrmForgotPassword.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.UserForms.FrmPasswordChange.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.UserForms.FrmUserLogin.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.UserForms.FrmUserType.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.HomeForm.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Properties.Resources.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.CustomerReports.FrmAllCustomerList.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.ExpensesReport.FrmCustomExpensesReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.ExpensesReport.FrmDailyExpenses.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.ExpensesReport.FrmMonthlyExpensesReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.ExpensesReport.FrmWeeklyExpensesReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmAllPurchasePaymentHistory.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmCustomPurchaseReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmDailyPurchaseReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmMonthlyPurchaseReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmPurchasePaymentHistoryReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmPurchasePaymentReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmPurchaseReports.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.PurchaseReports.FrmWeeklyPurchaseReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmCustomSaleReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmDailySalesReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmMonthlySalesReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmSalePaymentHistoryReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmSalePaymentReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmSaleReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SaleReport.FrmWeeklySaleReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.StockReport.FrmExpStockReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.StockReport.FrmLowStockReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.StockReport.FrmStockReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Reports.SupplierReport.FrmSupplierReport.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csproj.GenerateResource.cache
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csproj.CoreCompileInputs.cache
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csproj.CopyComplete
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.exe
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.pdb
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.Employees.FrmEmployeeSalary.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.Forms.Employees.testform.resources
+D:\Programming\Programming\COSMATIC SHOP\New folder (5)\CosmaticShop\CosmaticShop\CosmaticShop\obj\Debug\CosmaticShop.csprojAssemblyReference.cache
